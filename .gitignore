@@ -1,6 +1,7 @@
 # Source data
 /data/input
 /opdracht
+/notebooks/autoproductie_philippegiorgino.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
