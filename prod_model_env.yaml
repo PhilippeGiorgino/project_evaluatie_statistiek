@@ -1,4 +1,4 @@
-name: my_jupyter_env
+name: prod_model_env
 channels:
   - defaults
   - conda-forge
