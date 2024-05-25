@@ -20,10 +20,10 @@ A step by step explanation to get the provided notebook and environment running:
 1. Clone the repo: `git clone https://github.com/PhilippeGiorgino/project_evaluatie_statistiek`
 2. Navigate to the project directory: `cd project_evaluatie_statistiek`
 3. Import the provided conda environment in Anaconda Navigator: `conda env create -f prod_model_env.yaml`
-4. Activate the new environment: `conda activate your_env_name`
+4. Activate the new environment: `conda activate prod_model_env`
 
 ## Usage
-Open the Jupyter notebook: `jupyter notebook your_notebook.ipynb`
+Open the Jupyter notebook: `jupyter notebook assignment_modeling_production.ipynb`
 
 This will open the Jupyter Notebook. From there, you can open the notebook and run all cells to load and preprocess the data. 
 The assignment questions and answers are provided within the notebook.
