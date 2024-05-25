@@ -18,7 +18,7 @@ What things you need to install the software and how to install them:
 A step by step explanation to get the provided notebook and environment running:
 
 1. Clone the repo: `git clone https://github.com/PhilippeGiorgino/project_evaluatie_statistiek`
-2. Navigate to the project directory: `cd your_project`
+2. Navigate to the project directory: `cd project_evaluatie_statistiek`
 3. Import the provided conda environment in Anaconda Navigator: `conda env create -f prod_model_env.yaml`
 4. Activate the new environment: `conda activate your_env_name`
 
